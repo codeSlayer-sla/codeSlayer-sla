@@ -3,19 +3,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CAAF7&background=FFD72B00&random=false&width=435&lines=Coding+for+a+living%2Cliving+to+code.;Im+codeslayer%2Chello+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<h3 align="center">Desarrolador de software de colombia</h3>
+<h3 align="center">Software developer from Panama</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 En estos momento ando desarrollando **un ecommerce**
+ 🔭 Currently coding **an ecommerce**
  
- 🌱 Ando aprendiendo **Docker, Unity, AWS**
+ 🌱 Learning **Docker, Unity, AWS**
 
-💬 Me gusta hablar de **Algoritmos**
+💬 I love to talk about **Algorithms**
 
-⚡ Dato curioso **La primera pelicula animada en ganar un oscar fue sherk,en el 2001**
+⚡ Fun fact**The first animated movie to win an oscar was sherk, in 2001**
 
  </div>
  
@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,,mysql,flask" /><br>
 </div>
 
 <br/>
